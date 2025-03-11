@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-git+https://github.com/coqui-ai/TTS.git
-torch==2.5.0
-torchaudio==2.5.0
-coqpit
-transformers
-tiktoken
-langdetect
